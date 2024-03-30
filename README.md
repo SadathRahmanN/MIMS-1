@@ -1,6 +1,6 @@
-# Hospital Management System (HMS)
+#MIMS Hospital Management System (HMS)
 
-This is a Hospital Management System (HMS) project aimed at providing an efficient solution for managing hospital operations such as patient appointments, doctor schedules, and administrative tasks.
+This is a Hospital Management System (HMS) project aimed at providing an efficient solution for managing hospital operations such as patient appointments, doctor schedules, and administrative tasks.I have done this as my project in Upgrad
 
 ## Features
 
